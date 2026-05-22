@@ -1,4 +1,4 @@
-# BÁO CÁO KHO HÀNG FS PHƯỚC LONG - BẠC LIÊU
+# FS PHƯỚC LONG - BẠC LIÊU
 
 ## TỔNG KẾT
 - **Tổng số mặt hàng:** 47
